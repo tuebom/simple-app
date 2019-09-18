@@ -46,10 +46,10 @@ var app = new Framework7({
       path: '/',
       async: function (routeTo, routeFrom, resolve, reject) {
         // Router instance
-        var router = this;
+        // var router = this;
 
         // App instance
-        var app = router.app;
+        // var app = router.app;
 
         // Resolve route to load page
         resolve(
